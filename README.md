@@ -3,6 +3,8 @@ My Awesomewm dotfiles
 
 ## requirements
 ### system
+- awesome widgets
+- awesome buttons
 - picom
 - nitrogen
 - xfce4 power manager
