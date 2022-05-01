@@ -1,7 +1,7 @@
 # dot-files
 My Awesomewm dotfiles
 
-## requirements
+## requirements/stuff that's nice
 ### system
 - awesome widgets
 - awesome buttons
