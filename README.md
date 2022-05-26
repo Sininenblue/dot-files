@@ -1,4 +1,3 @@
-# dot-files
-Just a dump of all my dot files for future use
+# minimal catppuccin qtile edition
 
-They're a bit jank and might not work
+archive is a bunch of old rices that I used
