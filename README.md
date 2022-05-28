@@ -1,7 +1,5 @@
 # minimal catppuccin qtile edition
-
-archive is a bunch of old rices that I used
-
+---
 
 ![alt text](sc.png "Screen shot")
 
@@ -16,3 +14,9 @@ archive is a bunch of old rices that I used
 |Wallpapers		| [here](https://github.com/Harshit-T/Wallpapers)|
 |Typing thing	| typioca		|
 |System fetch	| Neofetch		|
+
+
+archive is a bunch of old rices that I use to use
+
+
+
