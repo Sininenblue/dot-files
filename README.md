@@ -3,7 +3,7 @@
 archive is a bunch of old rices that I used
 
 
-![alt text](https://github.com/sininenblue/dot-files/sc.png "Screen shot")
+![alt text](sc.png "Screen shot")
 
 Colors: Catppuccin
 
